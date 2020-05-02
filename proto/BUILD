@@ -1,3 +1,14 @@
+load("//tools:cpplint.bzl", "cpplint")
+
+package(default_visibility = ["//visibility:public"])
+
+cc_proto_library(
+    name = "lgsvl_proto",
+    deps = [
+        ":lgsvl_lib",
+    ],
+)
+
 proto_library(
     name = "lgsvl_lib",
     srcs = [
@@ -12,3 +23,4 @@ proto_library(
         "//modules/common/proto:geometry_proto_lib",
     ],
 )
+

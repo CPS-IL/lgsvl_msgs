@@ -1,5 +1,7 @@
 # Protobuf Package lgsvl_msgs for LG SVL Automotive Simulator
 
+This repository was forked from [https://github.com/lgsvl/lgsvl_msgs/tree/protobuf](https://github.com/lgsvl/lgsvl_msgs/tree/protobuf)
+
 This repository contains protobuf message definitions for lgsvl_msgs to subscribe protobuf messages being published by LG SVL Automotive Simulator via cyber bridge.
 
 
