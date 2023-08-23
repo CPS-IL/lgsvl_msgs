@@ -1,6 +1,13 @@
-# Protobuf Package lgsvl_msgs for LG SVL Automotive Simulator
 
-This repository was forked from [https://github.com/lgsvl/lgsvl_msgs/tree/protobuf](https://github.com/lgsvl/lgsvl_msgs/tree/protobuf)
+This repository was forked from [LG SVL Msgs](https://github.com/lgsvl/lgsvl_msgs)
+for the evaluation of [Perception Simplex](https://github.com/CPS-IL/perception_simplex), please refer to the instructions at [Perception Simplex](https://github.com/CPS-IL/perception_simplex).
+The engineering version, uploaded and maintained by Simon Yu, is also [available](https://github.com/cpsintegrationlab/lgsvl_msgs).
+
+---
+The original ReadMe follows:
+
+
+# Protobuf Package lgsvl_msgs for LG SVL Automotive Simulator
 
 This repository contains protobuf message definitions for lgsvl_msgs to subscribe protobuf messages being published by LG SVL Automotive Simulator via cyber bridge.
 
